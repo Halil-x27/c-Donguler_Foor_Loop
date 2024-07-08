@@ -1,0 +1,14 @@
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_Foor_Loop\bin\Debug\net8.0\Donguler_Foor_Loop.exe
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_Foor_Loop\bin\Debug\net8.0\Donguler_Foor_Loop.deps.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_Foor_Loop\bin\Debug\net8.0\Donguler_Foor_Loop.runtimeconfig.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_Foor_Loop\bin\Debug\net8.0\Donguler_Foor_Loop.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_Foor_Loop\bin\Debug\net8.0\Donguler_Foor_Loop.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_Foor_Loop\obj\Debug\net8.0\Donguler_Foor_Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_Foor_Loop\obj\Debug\net8.0\Donguler_Foor_Loop.AssemblyInfoInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_Foor_Loop\obj\Debug\net8.0\Donguler_Foor_Loop.AssemblyInfo.cs
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_Foor_Loop\obj\Debug\net8.0\Donguler_Foor_Loop.csproj.CoreCompileInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_Foor_Loop\obj\Debug\net8.0\Donguler_Foor_Loop.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_Foor_Loop\obj\Debug\net8.0\refint\Donguler_Foor_Loop.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_Foor_Loop\obj\Debug\net8.0\Donguler_Foor_Loop.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_Foor_Loop\obj\Debug\net8.0\Donguler_Foor_Loop.genruntimeconfig.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_Foor_Loop\obj\Debug\net8.0\ref\Donguler_Foor_Loop.dll
